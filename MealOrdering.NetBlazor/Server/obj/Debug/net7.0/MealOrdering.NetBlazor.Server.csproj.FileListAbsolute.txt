@@ -1,0 +1,8 @@
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.csproj.AssemblyReference.cache
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.AssemblyInfo.cs
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Server\obj\Debug\net7.0\MealOrdering.NetBlazor.Server.RazorAssemblyInfo.cs

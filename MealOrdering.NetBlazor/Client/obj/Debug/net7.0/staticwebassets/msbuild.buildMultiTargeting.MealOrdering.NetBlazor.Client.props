@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MealOrdering.NetBlazor.Client.props" />
+</Project>

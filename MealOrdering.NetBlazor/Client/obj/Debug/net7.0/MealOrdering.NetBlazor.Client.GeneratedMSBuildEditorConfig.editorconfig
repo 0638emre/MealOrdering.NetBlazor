@@ -20,6 +20,34 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/BaseButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJhc2VCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/ButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/CustomEditButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEN1c3RvbUVkaXRCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/BaseModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQmFzZU1vZGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ConfirmationPopupComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQ29uZmlybWF0aW9uUG9wdXBDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ShowMessagePopupComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcU2hvd01lc3NhZ2VQb3B1cENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/ButtonTest.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

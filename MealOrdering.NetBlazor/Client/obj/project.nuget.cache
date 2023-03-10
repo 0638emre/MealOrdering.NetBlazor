@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DGBMBQlftThjPIf0IxdnpuAACWJmQj/sl1Z10gmLj89Fd9pqi6GzuxKtdUABXZ1tscYORuD/M71SfQCniCUQUA==",
+  "dgSpecHash": "ECpy4AQNiDCvRdLEyWzlF0GQ0r41MSmKU08t9ccbNrKti6Y2t5uuqUNfwkNH24QDCbbTj7GJbB1yjQn4GXahNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\emre.coskun\\Desktop\\Blazor\\MealOrdering.NetBlazor\\Client\\MealOrdering.NetBlazor.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emre.coskun\\.nuget\\packages\\blazored.modal\\7.1.0\\blazored.modal.7.1.0.nupkg.sha512",
     "C:\\Users\\emre.coskun\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.1\\microsoft.aspnetcore.authorization.7.0.1.nupkg.sha512",
     "C:\\Users\\emre.coskun\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.1\\microsoft.aspnetcore.components.7.0.1.nupkg.sha512",
     "C:\\Users\\emre.coskun\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.1\\microsoft.aspnetcore.components.analyzers.7.0.1.nupkg.sha512",
