@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W9gEg1HRzB+fkd7ixR8B2gcTtlCJOhcGvKQBe+1q5X+T/Z0y6vJPwdkdo2D/BIH8zNqemaUqsWi3BB3yGW9zNA==",
+  "dgSpecHash": "5eh+7uaPVst3B5riqc02/W/56wCO/MZPHCS+TJQco63EH5Zeyk49cEPYsXZj0VSjcNILA6tSbT5eaycjVislYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emre.coskun\\Desktop\\Blazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\emrec\\Source\\Repos\\0638emre\\MealOrdering.NetBlazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

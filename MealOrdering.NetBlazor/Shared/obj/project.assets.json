@@ -8,25 +8,28 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emre.coskun\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\emrec\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emre.coskun\\Desktop\\Blazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\emrec\\Source\\Repos\\0638emre\\MealOrdering.NetBlazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
       "projectName": "MealOrdering.NetBlazor.Shared",
-      "projectPath": "C:\\Users\\emre.coskun\\Desktop\\Blazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
-      "packagesPath": "C:\\Users\\emre.coskun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emre.coskun\\Desktop\\Blazor\\MealOrdering.NetBlazor\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\emrec\\Source\\Repos\\0638emre\\MealOrdering.NetBlazor\\MealOrdering.NetBlazor\\Shared\\MealOrdering.NetBlazor.Shared.csproj",
+      "packagesPath": "C:\\Users\\emrec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emrec\\Source\\Repos\\0638emre\\MealOrdering.NetBlazor\\MealOrdering.NetBlazor\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\emre.coskun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\emrec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -34,7 +37,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -67,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
