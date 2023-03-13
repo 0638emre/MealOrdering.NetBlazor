@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = MealOrdering.NetBlazor.Shared
-build_property.ProjectDir = C:\Users\emrec\Source\Repos\0638emre\MealOrdering.NetBlazor\MealOrdering.NetBlazor\Shared\
+build_property.ProjectDir = C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Shared\

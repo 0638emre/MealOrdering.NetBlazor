@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = MealOrdering.NetBlazor.Client
 build_property.RootNamespace = MealOrdering.NetBlazor.Client
-build_property.ProjectDir = C:\Users\emrec\Source\Repos\0638emre\MealOrdering.NetBlazor\MealOrdering.NetBlazor\Client\
+build_property.ProjectDir = C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\emrec\Source\Repos\0638emre\MealOrdering.NetBlazor\MealOrdering.NetBlazor\Client
+build_property.MSBuildProjectDirectory = C:\Users\emre.coskun\Desktop\Blazor\MealOrdering.NetBlazor\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/App.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/BaseButtonComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/BaseButtonComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJhc2VCdXR0b25Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/ButtonComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/ButtonComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/CustomEditButtonComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/Buttons/CustomEditButtonComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEN1c3RvbUVkaXRCdXR0b25Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/BaseModalComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/BaseModalComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQmFzZU1vZGFsQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ConfirmationPopupComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ConfirmationPopupComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQ29uZmlybWF0aW9uUG9wdXBDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ShowMessagePopupComponent.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/CustomComponents/ModalComponents/ShowMessagePopupComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcU2hvd01lc3NhZ2VQb3B1cENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Pages/ButtonTest.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/ButtonTest.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uVGVzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Pages/Counter.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Pages/FetchData.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Pages/Index.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Shared/SurveyPrompt.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/_Imports.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Shared/MainLayout.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-mavuvjkkqm
 
-[C:/Users/emrec/Source/Repos/0638emre/MealOrdering.NetBlazor/MealOrdering.NetBlazor/Client/Shared/NavMenu.razor]
+[C:/Users/emre.coskun/Desktop/Blazor/MealOrdering.NetBlazor/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7thfhk8400
